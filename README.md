@@ -3,7 +3,7 @@
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-7%2C202%20rows-8250df">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-7%2C203%20rows-8250df">
   <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-7%2C202%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
@@ -14,7 +14,7 @@ Daily-updated dataset of available and resale .work one-word domains from Unique
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 7,202 rows · **Live catalog:** 7,202 domains
+**Public extract:** 7,203 rows · **Live catalog:** 7,202 domains
 
 **Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/work`  
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .WORK one-word domain 
 
 ### Files
 
-- `work.csv` — public CSV extract (7,202 rows)
-- `work.json` — public JSON extract (7,202 rows)
+- `work.csv` — public CSV extract (7,203 rows)
+- `work.json` — public JSON extract (7,203 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -73,16 +73,16 @@ print(df.head())
 | fond.work       | available | $13.98    | —             | 116            | 15     | 4      | namecheap                                           |
 | authentic.work  | resell    | —         | —             | 76             | 83     | 9      | GoDaddy.com, LLC                                    |
 | security.work   | premium   | $6,500    | $10.40        | 70             | 49     | 8      | namecheap                                           |
-| foolish.work    | available | $13.98    | —             | 60             | 15     | 7      | namecheap                                           |
+| captive.work    | available | $12.98    | —             | 102            | 14     | 7      | namecheap                                           |
 | orange.work     | resell    | —         | —             | 74             | 83     | 6      | Chengdu West Dimension Digital Technology Co., Ltd. |
 | sales.work      | premium   | $3,250    | $10.40        | 66             | 42     | 5      | namecheap                                           |
-| captive.work    | available | $12.98    | —             | 102            | 14     | 7      | namecheap                                           |
+| foolish.work    | available | $13.98    | —             | 60             | 14     | 7      | namecheap                                           |
 | along.work      | resell    | —         | —             | 66             | 80     | 5      | Xin Net Technology Corporation                      |
-| direct.work     | premium   | $312.50   | $14.99        | 104            | 38     | 6      | name.com                                            |
+| direct.work     | premium   | $312.50   | $14.99        | 104            | 40     | 6      | name.com                                            |
 | alamode.work    | available | $13.98    | —             | 96             | 13     | 9      | namecheap                                           |
 | name.work       | resell    | —         | —             | 82             | 76     | 4      | Dynadot Inc                                         |
 | sports.work     | premium   | $1,300    | $10.40        | 110            | 37     | 6      | namecheap                                           |
-| historical.work | available | $13.98    | —             | 88             | 13     | 10     | namecheap                                           |
+| corrupt.work    | available | $13.98    | —             | 80             | 13     | 7      | namecheap                                           |
 | discover.work   | resell    | —         | —             | 66             | 75     | 8      | Xin Net Technology Corporation                      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 7,202-row public sample | 7,202 live domains                               |
+| 7,203-row public sample | 7,202 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
