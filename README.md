@@ -1,10 +1,10 @@
-# Available .WORK One-Word Domains (9,428)
+# Available .WORK One-Word Domains (9,784)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C428%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C784%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .work one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **9,428 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **9,784 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 9,428 domains
+**Public extract:** 1,000 rows · **Live catalog:** 9,784 domains · **Median ask:** $115.53 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-04  
 **Canonical page:** `https://unique.domains/domains/tld/work`  
 **Best for:** founders, investors, studios
 
@@ -66,22 +66,22 @@ print(df.head())
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
 | RedSox.work      | available | $17.98    | —             | 72             | 60     | 7      | namecheap                                               |
 | hotels.work      | resell    | —         | —             | 64             | 82     | 6      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| donuts.work      | premium   | $1,250    | —             | 54             | 62     | 6      | name.com                                                |
+| cars.work        | premium   | $1,250    | —             | 66             | 47     | 4      | name.com                                                |
 | unicorns.work    | available | $2.99     | —             | 73             | 21     | 8      | name.com                                                |
 | only.work        | resell    | —         | —             | 84             | 46     | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| cars.work        | premium   | $1,250    | —             | 66             | 47     | 4      | name.com                                                |
+| pages.work       | premium   | $3,125    | —             | 52             | 28     | 5      | name.com                                                |
 | rivals.work      | available | $2.99     | —             | 48             | 20     | 6      | name.com                                                |
 | coins.work       | resell    | —         | —             | 56             | 41     | 5      | NameSilo, LLC                                           |
-| gems.work        | premium   | $302.50   | $11.80        | 70             | 28     | 4      | namesilo                                                |
-| citizens.work    | available | $2.99     | —             | 60             | 19     | 8      | name.com                                                |
-| asia.work        | resell    | —         | —             | 72             | 34     | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| pages.work       | premium   | $3,125    | —             | 52             | 28     | 5      | name.com                                                |
-| Sundays.work     | available | $17.98    | —             | 61             | 17     | 7      | namecheap                                               |
-| rank.work        | resell    | —         | —             | 70             | 34     | 4      | Dynadot Inc                                             |
 | KFC.work         | premium   | $350      | $14           | 74             | 27     | 3      | namecheap                                               |
+| citizens.work    | available | $2.99     | —             | 60             | 19     | 8      | name.com                                                |
+| asia.work        | resell    | —         | —             | 72             | 33     | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| systems.work     | premium   | $937.50   | —             | 46             | 27     | 7      | name.com                                                |
+| Sundays.work     | available | $17.98    | —             | 61             | 17     | 7      | namecheap                                               |
+| rank.work        | resell    | —         | —             | 70             | 33     | 4      | Dynadot Inc                                             |
+| traders.work     | premium   | $312.50   | —             | 60             | 26     | 7      | name.com                                                |
 | bonvoyage.work   | available | $2.99     | —             | 88             | 16     | 10     | name.com                                                |
 | inspiration.work | resell    | —         | —             | 88             | 30     | 11     | Xin Net Technology Corporation                          |
-| systems.work     | premium   | $937.50   | —             | 46             | 27     | 7      | name.com                                                |
+| pops.work        | premium   | $116      | $11.80        | 74             | 24     | 4      | namesilo                                                |
 | landscaping.work | available | $2.99     | —             | 80             | 16     | 11     | name.com                                                |
 | heroes.work      | resell    | —         | —             | 68             | 29     | 6      | Xin Net Technology Corporation                          |
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 9,428 live domains                               |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 9,784 live domains                         |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This set is entirely focused on one-word .work domains. The strongest candidates are the words that are clear, easy to say, and closely aligned with work, careers, services, productivity, or task-oriented brands. Names like idea.work or final.work read cleanly and are easy to remember, while more awkward or sensitive words can narrow buyer appeal. With a median ask of 115.53, the main decision is less about headline price and more about whether the word carries durable commercial meaning in a .work extension. When comparing these domains, check semantic fit, spelling clarity, and renewal terms before treating a low ask as a true bargain.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Prioritize words that fit jobs, projects, output, or services
+- Check if the word sounds natural with the .work ending
+- Low ask does not remove renewal or resale risk
+- Avoid words with narrow, sensitive, or awkward usage
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .WORK One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .WORK One-Word Domains*. Version 2026-05-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
