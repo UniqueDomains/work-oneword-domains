@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .work one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 13,476 domains · **Median ask:** $105.36 · **High-demand under $2,500:** 7
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/work`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
 | --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| ache.work | available | $2.98     | $17.98        | medium         | low    | 4      | namecheap                                               |
-| jay.work  | resell    | —         | —             | high           | low    | 3      | UM Domains Pte. Ltd.                                    |
-| aft.work  | premium   | $1,107    | $11.80        | medium         | low    | 3      | namesilo                                                |
+| ache.work | available | $2.98     | $17.98        | high           | low    | 4      | namecheap                                               |
+| and.work  | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                        |
+| aft.work  | premium   | $1,107    | $11.80        | high           | low    | 3      | namesilo                                                |
+| asat.work | available | $2.98     | $17.98        | medium         | low    | 4      | namecheap                                               |
+| ant.work  | resell    | —         | —             | high           | medium | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| ate.work  | premium   | $3,125    | —             | high           | low    | 3      | name.com                                                |
 | bury.work | available | $2.99     | $12.99        | high           | low    | 4      | namesilo                                                |
-| job.work  | resell    | —         | —             | high           | low    | 3      | Chengdu West Dimension Digital Technology Co., Ltd.     |
+| jay.work  | resell    | —         | —             | high           | low    | 3      | UM Domains Pte. Ltd.                                    |
 | awe.work  | premium   | $625      | —             | high           | low    | 3      | name.com                                                |
 | cane.work | available | $2.99     | $12.99        | high           | low    | 4      | namesilo                                                |
-| liv.work  | resell    | —         | —             | high           | low    | 3      | Name.com, Inc.                                          |
+| job.work  | resell    | —         | —             | high           | low    | 3      | Chengdu West Dimension Digital Technology Co., Ltd.     |
 | bce.work  | premium   | $302.50   | $11.80        | high           | low    | 3      | namesilo                                                |
-| clxv.work | available | $2.98     | $17.98        | high           | low    | 4      | namecheap                                               |
+| clxv.work | available | $2.98     | $17.98        | medium         | low    | 4      | namecheap                                               |
+| liv.work  | resell    | —         | —             | high           | low    | 3      | Name.com, Inc.                                          |
+| beg.work  | premium   | $302.50   | $11.80        | high           | low    | 3      | namesilo                                                |
+| clxx.work | available | $2.98     | $17.98        | medium         | low    | 4      | namecheap                                               |
 | arab.work | resell    | —         | —             | high           | low    | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
 | bio.work  | premium   | $3,125    | —             | high           | medium | 3      | name.com                                                |
-| clxx.work | available | $2.98     | $17.98        | high           | low    | 4      | namecheap                                               |
-| farm.work | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                                         |
-| cap.work  | premium   | $3,125    | —             | high           | low    | 3      | name.com                                                |
 | lxii.work | available | $2.98     | $17.98        | medium         | low    | 4      | namecheap                                               |
-| flow.work | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.                                         |
-| cxx.work  | premium   | $302.50   | $11.80        | high           | low    | 3      | namesilo                                                |
-| lxxv.work | available | $2.98     | $17.98        | medium         | low    | 4      | namecheap                                               |
-| fold.work | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd            |
+| bank.work | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .WORK One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .WORK One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
