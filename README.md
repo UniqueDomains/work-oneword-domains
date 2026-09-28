@@ -1,10 +1,10 @@
-# Available .WORK One-Word Domains (17,921)
+# Available .WORK One-Word Domains (18,282)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-17%2C921%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-18%2C282%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .work one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **17,921 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **18,282 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 17,921 domains · **Median ask:** $148.24 · **High-demand under $2,500:** 10
+**Public extract:** 1,000 rows · **Live catalog:** 18,282 domains · **Median ask:** $149.87 · **High-demand under $2,500:** 10
 
-**Last updated:** 2026-09-27
+**Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/work`
 **Best for:** founders, investors, studios
 
@@ -66,22 +66,22 @@ print(df.head())
 | --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
 | acth.work | available | $2.99     | $12.99        | medium         | low    | 4      | namesilo                                                |
 | ali.work  | resell    | —         | —             | high           | high   | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| azo.work  | premium   | $302.50   | $11.80        | high           | low    | 3      | namesilo                                                |
+| aus.work  | premium   | $258.95   | $10.55        | high           | low    | 3      | spaceship                                               |
 | acyl.work | available | $2.98     | $17.98        | medium         | low    | 4      | namecheap                                               |
 | off.work  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                        |
-| bap.work  | premium   | $302.50   | $11.80        | high           | low    | 3      | namesilo                                                |
+| azo.work  | premium   | $302.50   | $11.80        | high           | low    | 3      | namesilo                                                |
 | arng.work | available | $2.99     | $12.99        | medium         | low    | 4      | namesilo                                                |
-| arco.work | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 33                                       |
-| bbl.work  | premium   | $325      | $13           | high           | low    | 3      | namecheap                                               |
+| arco.work | resell    | —         | —             | medium         | low    | 4      | Sav.com, LLC - 33                                       |
+| bap.work  | premium   | $302.50   | $11.80        | high           | low    | 3      | namesilo                                                |
 | asch.work | available | $2.99     | $12.99        | high           | low    | 4      | namesilo                                                |
 | bank.work | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                             |
-| bey.work  | premium   | $302.50   | $11.80        | medium         | low    | 3      | namesilo                                                |
+| bbl.work  | premium   | $325      | $13           | high           | low    | 3      | namecheap                                               |
 | asea.work | available | $2.98     | $17.98        | medium         | low    | 4      | namecheap                                               |
 | bash.work | resell    | —         | —             | high           | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd.     |
-| ccp.work  | premium   | $640      | $11.80        | high           | low    | 3      | namesilo                                                |
+| bey.work  | premium   | $302.50   | $11.80        | medium         | low    | 3      | namesilo                                                |
 | bade.work | available | $2.99     | $12.99        | high           | low    | 4      | namesilo                                                |
 | host.work | resell    | —         | —             | high           | medium | 4      | Chengdu West Dimension Digital Technology Co., Ltd.     |
-| cxl.work  | premium   | $302.50   | $11.80        | high           | low    | 3      | namesilo                                                |
+| caa.work  | premium   | $258.95   | $10.55        | high           | low    | 3      | spaceship                                               |
 | bilk.work | available | $2.98     | $17.98        | medium         | low    | 4      | namecheap                                               |
 | sage.work | resell    | —         | —             | high           | medium | 4      | Chengdu West Dimension Digital Technology Co., Ltd.     |
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 17,921 live domains                        |
+| 1,000-row public sample | 18,282 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 10 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .WORK One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .WORK One-Word Domains*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
