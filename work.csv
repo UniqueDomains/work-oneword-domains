@@ -360,6 +360,7 @@ c22f6018-38e2-443d-bc60-34a0276fd887,fatah.work,available,2.99,12.99,medium,low,
 2eee5219-021a-44f7-9506-8f2bcf99b652,pickled.work,available,2.98,17.98,high,medium,7,namecheap,,,08/09/2026 19:30
 f6032ab6-c083-4bcd-877c-8c890cc07a65,pansy.work,premium,224,11.8,medium,low,5,namesilo,,,09/09/2026 08:07
 8e9cea2c-3e74-408e-9df6-5a64def523e4,impostor.work,available,2.98,17.98,medium,low,8,namecheap,,,09/09/2026 04:59
+da7d34e0-e2fd-4964-a983-dadfe0c0b499,pathway.work,resell,,,high,low,7,,,,29/09/2026 06:59
 6410594f-b438-4d4f-b0db-0aea82c3fd11,seamed.work,available,2.98,17.98,medium,low,6,namecheap,,,10/09/2026 00:45
 66bab75a-61dc-4f87-949a-880c0cc09f45,airway.work,available,2.99,12.99,high,low,6,namesilo,,,17/09/2026 22:13
 276dc96e-c386-4065-a775-e3a1b6d81f81,scuffle.work,available,2.98,17.98,high,medium,7,namecheap,,,09/09/2026 18:54
@@ -528,7 +529,7 @@ f4090e6a-c4df-4996-93c1-970361f0178d,sporadic.work,available,2.98,17.98,medium,l
 b37bbb38-c995-4ce9-8160-8c4767b79129,agrestic.work,available,2.98,17.98,medium,low,8,namecheap,,,
 7777bb7d-8fcb-4766-a597-62404f227a7f,whiny.work,available,2.98,17.98,medium,low,5,namecheap,,,09/09/2026 08:37
 dfc776ae-aaad-4864-9d6b-f5f716b7a43c,cityfied.work,available,2.98,17.98,medium,low,8,namecheap,,,12/08/2026 08:49
-885f803d-f2ff-4e8b-9fb4-b3ee41580687,madrid.work,premium,3125,,high,low,6,name.com,,,
+885f803d-f2ff-4e8b-9fb4-b3ee41580687,madrid.work,premium,2587.7,10.55,high,low,6,spaceship,,,29/09/2026 06:59
 72eee36b-7d66-4006-83ff-f4f7bc390590,anxious.work,available,2.99,12.99,medium,low,7,namesilo,,,27/09/2026 21:59
 20cabe03-490d-4943-823e-b06da747d926,wwii.work,premium,181.33,10.55,medium,low,4,spaceship,,,28/09/2026 07:36
 809f93f6-818e-4018-9776-ca865a96da93,wraps.work,premium,65,13,medium,low,5,namecheap,,,20/09/2026 11:16
@@ -820,7 +821,6 @@ e27bb693-4a9a-4300-95a4-7ad767f32c91,changes.work,available,,,medium,low,7,,,,
 d0c57459-eb0d-4146-9542-7e8f5df8ebe2,illumine.work,available,2.98,17.98,high,low,8,namecheap,,,08/09/2026 04:54
 60a69aac-743a-4d08-a1bf-a0ff2eeb3805,sexed.work,available,2.98,17.98,medium,low,5,namecheap,,,10/09/2026 05:13
 93327c38-e79e-4b05-b83c-59b08f2150b0,squashed.work,available,2.98,17.98,medium,low,8,namecheap,,,10/09/2026 17:31
-945aa187-1cdf-4235-a975-2bedaf933f81,luxembourg.work,available,,,high,high,10,,,,
 66e43563-366c-4e25-9d32-9441ebf37462,humoring.work,available,2.98,17.98,medium,low,8,namecheap,,,05/09/2026 00:31
 b37e5138-0d4f-4677-925d-a40f414973f4,shrewdness.work,available,2.98,17.98,high,low,10,namecheap,,,20/09/2026 18:18
 526cf1c8-30fa-4d3e-96b5-3260ab5615a8,affinal.work,available,2.98,17.98,medium,low,7,namecheap,,,
@@ -890,6 +890,7 @@ a98bcb90-695e-4470-a9f2-98a5a089b7a6,extensile.work,available,2.98,17.98,medium,
 4807e465-7326-4f00-a132-edb0ea343089,molal.work,available,2.98,17.98,medium,low,5,namecheap,,,25/08/2026 03:31
 1267c936-e5ab-4fcd-bbfc-55e2d1902e6d,albacore.work,available,2.98,17.98,medium,low,8,namecheap,,,18/09/2026 02:20
 2f846714-725a-49cd-b10a-a23c91dbe82b,contrite.work,available,2.98,17.98,high,low,8,namecheap,,,12/08/2026 23:34
+696e8c2f-e5cf-48ee-944f-eb77ba36790e,gustavus.work,available,2.99,12.99,medium,low,8,namesilo,,,29/09/2026 07:07
 9eeae061-5cd9-4c7e-a5e7-a3fa2a9c8e37,asch.work,available,2.99,12.99,high,low,4,namesilo,,,20/09/2026 13:15
 c63296d5-a8fb-45ff-a894-1aaaa13ca983,redress.work,available,2.98,17.98,high,low,7,namecheap,,,09/09/2026 17:27
 70b44cc0-6e83-40a2-a4c6-243ed9f6adff,swollen.work,available,2.99,12.99,high,low,7,namesilo,,,23/09/2026 18:42
@@ -998,4 +999,3 @@ a23a6f2c-a7a7-44f6-9a70-6dcbb60f7585,bottoms.work,premium,65,13,medium,low,7,nam
 621f0020-a50e-40be-9939-761c15dedf3f,bangkok.work,resell,,,high,low,7,Dynadot Inc,10/02/2015 16:00,10/02/2027 16:00,26/09/2026 04:15
 828ac981-3715-416e-81e8-980d509d0ac8,deviance.work,available,2.99,12.99,medium,low,8,namesilo,,,16/09/2026 15:16
 558bf311-a22d-42b3-981a-984b78c63094,recovery.work,resell,,,high,low,8,Xin Net Technology Corporation,06/11/2023 00:00,06/11/2027 00:00,26/09/2026 08:32
-d7dbd82e-990f-45dd-80de-0a449a147957,facies.work,available,2.99,12.99,medium,low,6,namesilo,,,29/09/2026 04:47
